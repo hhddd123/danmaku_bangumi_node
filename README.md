@@ -1,6 +1,6 @@
 # 弹幕动漫 (Danmaku Bangumi) - 后端服务
 
-基于 Node.js (Express) + MongoDB 的流媒体资源聚合与弹弹play弹幕中继服务。
+一个支持多源番剧采集与弹幕代理的 Node.js 后端
 
 ## 特性
 
